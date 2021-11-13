@@ -18,5 +18,6 @@ GIVEN a social network API
   Mock-Up
 
 **Github URL**
+https://github.com/GarySanchez012/social-network-API
 
 **Walkthrough-video**
