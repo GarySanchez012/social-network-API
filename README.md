@@ -21,3 +21,4 @@ GIVEN a social network API
 https://github.com/GarySanchez012/social-network-API
 
 **Walkthrough-video**
+https://watch.screencastify.com/v/JkEam7To9qcb74SOPJEq
